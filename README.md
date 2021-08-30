@@ -1,5 +1,4 @@
-# Abstractive Summarization of Portuguese Texts
-by fine-tuning the Portuguese-Based T5 Model
+# Abstractive Summarization of Portuguese Texts by fine-tuning the Portuguese-Based T5 Model
 ---
 
 The following project aims to fine-tune and implement the Portuguese Vocabulary Pretrained T5 model on abstractive text summarization tasks in Brazilian Portuguese
